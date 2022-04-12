@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-![Print](https://raw.githubusercontent.com/devgdp/Studio-Ghibli/main/assets/img/Login.png 'Print')
+![Print](https://github.com/devgdp/Studio-Ghibli/blob/main/assets/img/print.png 'Print')
 
 ### Tecnologias utilizadas
 
